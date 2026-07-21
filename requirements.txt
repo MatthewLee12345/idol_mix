@@ -1,0 +1,20 @@
+# Core numerical and audio analysis
+numpy
+scipy
+librosa
+soundfile
+essentia
+madmom
+scikit-learn
+
+# Stem separation
+torch
+demucs
+
+# Video visualization and image composition
+opencv-python-headless
+Pillow
+
+# Ingestion and external APIs
+requests
+spotdl
